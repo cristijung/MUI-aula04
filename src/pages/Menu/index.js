@@ -34,6 +34,9 @@ export default function Menu() {
                 <MenuBase to='/Formulario'>
                     <Button variant='outlined'>Formulário</Button>
                 </MenuBase>
+                <MenuBase to='/Theme'>
+                    <Button variant='outlined'>Theme</Button>
+                </MenuBase>
             </Stack>
         </Box>          
       
