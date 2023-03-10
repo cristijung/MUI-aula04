@@ -17,7 +17,7 @@ export default function Menu() {
                     <Button variant='outlined'>Grids</Button>
                 </MenuBase>
                 <MenuBase to='/BtnPage'>
-                    <Button variant='outlined'>Botaõ</Button>
+                    <Button variant='outlined'>Botão</Button>
                 </MenuBase>
                 <MenuBase to='/Cards'>
                     <Button variant='outlined'>Cards</Button>
